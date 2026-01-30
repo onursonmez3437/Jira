@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-=======
+# GÖREV TAKİP UYGULAMASI
 # youtube
 
 ## Project setup
