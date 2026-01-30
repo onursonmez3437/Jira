@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "title": "Backend İşlemlerim",
+      "detail": "<ol><li><strong>.Net core geliştirme işlemleri.Net core geliştirme işlemleri.Net core geliştirme işlemleri.Net core geliştirme işlemleri</strong></li><li><strong><em>Frontend ile uyumlu çalışma denemeleri</em></strong></li></ol>",
+      "complate": false,
+      "id": "1"
+    },
+    {
+      "title": "Frontend İşlemleri",
+      "detail": "Vue js öğreniyorum",
+      "complate": true,
+      "id": "2"
+    },
+    {
+      "title": " Veri Tabanı",
+      "detail": " SQL ",
+      "complate": true,
+      "id": "3"
+    },
+    {
+      "title": " Orchard Core",
+      "detail": "Web sitesi yapıyorum\nHTML5 CSS3 Kullanıyorum",
+      "complate": false,
+      "id": "4"
+    },
+    {
+      "title": " Vuetify",
+      "detail": "Vuetify",
+      "complate": false,
+      "id": "5"
+    },
+    {
+      "title": " HTML5",
+      "detail": "HTML5 ",
+      "complate": true,
+      "id": "6"
+    },
+    {
+      "title": " CSS3",
+      "detail": "CSS3 ",
+      "complate": true,
+      "id": "7"
+    },
+    {
+      "title": " Bilgisayar Mühendisi",
+      "detail": "Onur Sönmez ",
+      "complate": false,
+      "id": "9"
+    },
+    {
+      "title": " Robotik Kodlama Öğretmeni ",
+      "detail": " Semanur Yabacı",
+      "complate": true,
+      "id": "10"
+    },
+    {
+      "id": "e2e2",
+      "title": "aa",
+      "detail": "<p><strong>aaa<span class=\"ql-cursor\">﻿</span></strong></p>",
+      "complate": false
+    }
+  ],
+  "gunlukHayat": [
+    {
+      "id": " 1",
+      "title": " KENDİNİ GELİŞTİR  🔁",
+      "detail": "<ul><li><strong> BUGÜN DÜNDEN DAHA İYİ OL </strong>🔁</li></ul>",
+      "complate": false
+    },
+    {
+      "id": "2",
+      "title": "KİTAP OKUMA",
+      "detail": "<p><strong>GÜNDE 30 SAYFA</strong></p>",
+      "complate": true
+    },
+    {
+      "id": "3",
+      "title": "SPOR YAPMA",
+      "detail": "<p><strong>YÜRÜYÜŞ VEYA KOŞU</strong></p>",
+      "complate": false
+    }
+  ]
+}
