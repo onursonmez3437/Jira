@@ -41,8 +41,38 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   
 
 <h1 align="center"> 💻 PROJE GÖRSELLERİ 💻 </h1>
-<a target="_blanka"><img align="left" height="500" width="400" alt="𝙶𝙸𝙵" src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20anasayfa.png?raw=true"></a>
-<a target="_blanka"><img align="left" height="500" width="400" alt="𝙶𝙸𝙵" src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20g%C3%B6rev%20ekleme.png"></a>
-<a target="_blanka"><img align="left" height="500" width="400" alt="𝙶𝙸𝙵" src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20g%C3%B6rev%20g%C3%BCncelleme.png"></a>
-<a target="_blanka"><img align="left" height="500" width="400" alt="𝙶𝙸𝙵" src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20men%C3%BC.png"></a>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20anasayfa.png?raw=true" width="350"/>
+      <br/>
+      <b>Ana Sayfa</b>
+      <br/>
+      Görevlerin listelendiği, kategorilere göre ayrılmış ana ekran.
+    </td>
+    <td align="center">
+      <img src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20g%C3%B6rev%20ekleme.png?raw=true" width="350"/>
+      <br/>
+      <b>Görev Ekleme</b>
+      <br/>
+      Yeni görevlerin oluşturulduğu, yazı stillendirme ve maddeleme özelliklerinin bulunduğu ekran.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20g%C3%B6rev%20g%C3%BCncelleme.png?raw=true" width="350"/>
+      <br/>
+      <b>Görev Güncelleme</b>
+      <br/>
+      Mevcut görevlerin düzenlenip güncellendiği ekran.
+    </td>
+    <td align="center">
+      <img src="https://github.com/onursonmez3437/Jira/blob/main/src/jira%20men%C3%BC.png?raw=true" width="350"/>
+      <br/>
+      <b>Menü</b>
+      <br/>
+      Kategori seçimi ve uygulama içi navigasyonun sağlandığı menü ekranı.
+    </td>
+  </tr>
+</table>
